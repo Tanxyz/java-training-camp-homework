@@ -1,0 +1,17 @@
+server:
+  port: 8096
+
+spring:
+  application:
+    name: homework-six
+
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    database: 0
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
