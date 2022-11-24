@@ -1,0 +1,17 @@
+server:
+  port: 8097
+
+spring:
+  application:
+    name: homework-six-proxy
+
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    database: 0
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

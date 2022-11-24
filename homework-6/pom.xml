@@ -14,6 +14,7 @@
     <url>http://www.example.com</url>
     <modules>
         <module>micrometer-redis-aop</module>
+        <module>micrometer-redis-proxy</module>
     </modules>
 
     <properties>
