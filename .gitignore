@@ -5,3 +5,5 @@
 /homework-6/micrometer-redis-proxy/target/
 /homework-6/micrometer-redis-proxy/micrometer-redis-proxy.iml
 /homework-project.iml
+/eureka-server/target/
+/eureka-server/eureka-server.iml

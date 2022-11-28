@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>homework-6</module>
+        <module>eureka-server</module>
     </modules>
     <parent>
         <groupId>org.apache</groupId>
