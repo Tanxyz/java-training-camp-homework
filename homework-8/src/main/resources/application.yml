@@ -1,0 +1,12 @@
+server:
+  port: 8098
+
+spring:
+  application:
+    name: byte-buddy-service
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8090/eureka
+    register-with-eureka: true
