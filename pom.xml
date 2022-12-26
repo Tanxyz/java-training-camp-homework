@@ -6,6 +6,7 @@
         <module>homework-6</module>
         <module>eureka-server</module>
         <module>homework-8</module>
+        <module>homework-10</module>
     </modules>
     <parent>
         <groupId>org.apache</groupId>
